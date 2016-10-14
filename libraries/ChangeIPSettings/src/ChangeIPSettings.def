@@ -1,0 +1,10 @@
+LIBRARY ChangeIPSettings
+DESCRIPTION 'This DLL contains functionality to quickly change IP settings'
+
+EXPORTS
+  executeStaticChange @1
+  executeDynamicChange @2
+  generateDeviceList @3
+  parseDeviceListToFile @4
+  cleanUpTmp @5
+  delay @6

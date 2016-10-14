@@ -1,0 +1,16 @@
+
+Pinging 192.168.1.1 with 32 bytes of data:
+
+Request timed out.
+
+Ping statistics for 192.168.1.1:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+
+Pinging 8.8.8.8 with 32 bytes of data:
+
+Reply from 8.8.8.8: bytes=32 time=116ms TTL=127
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 116ms, Maximum = 116ms, Average = 116ms
